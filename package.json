@@ -1,0 +1,20 @@
+{
+  "name": "youtube-downloader",
+  "version": "3.0.0",
+  "description": "A simple code used to download music by YouTube in mp3 format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord-ytdl-core": "^4.0.7",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "scrape-yt": "^1.4.1",
+    "spotify-url-info": "^1.4.0"
+  }
+}
