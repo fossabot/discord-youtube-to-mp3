@@ -50,17 +50,17 @@ Examples (download) :
 
 ```
 #YouTube name
-<prefix>download PETIT BISCUIT - Sunset Lover
+<prefix>dl PETIT BISCUIT - Sunset Lover
 
 #Spotify URL
-<prefix>download https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E?si=iJP3hgxbRoqiqiOnnfBR7w
+<prefix>dl https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E?si=iJP3hgxbRoqiqiOnnfBR7w
 ```
 
 Example (linkdownload) :
 
 ```
 #YouTube URL
-<prefix>linkdownload https://youtu.be/wuCK-oiE3rM
+<prefix>ldl https://youtu.be/wuCK-oiE3rM
 ```
 
 I'm not responsible if a music doesn't want to download or if your IP is blacklisted on YouTube ⛔
