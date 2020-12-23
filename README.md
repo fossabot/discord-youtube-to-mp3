@@ -1,4 +1,6 @@
 # Youtube-Downloader
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-youtube-to-mp3.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-youtube-to-mp3?ref=badge_shield)
+
 A simple code used to download music by YouTube in mp3 format 🔥
 
 Looking for a code to download your music ? This fully open source code is made for you!
@@ -69,3 +71,7 @@ This is used with [discord.js](https://www.npmjs.com/package/discord.js), [disco
 
 If you have any questions/problems do not hesitate to open a issue !
 Don't forget to add a star to the project or leave a little mark of this Github on your bot if you use the source code !
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-youtube-to-mp3.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2Fdiscord-youtube-to-mp3?ref=badge_large)
